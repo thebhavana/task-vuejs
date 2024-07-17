@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Jane Smith",
+    "age": 22,
+    "address": "456 Elm St, Metropolis",
+    "qualification": "Bachelor's Degree",
+    "email": "jane.smith@example.com", 
+    "phone": "987-654-3210"
+  },
+  {
+    "name": "Bob Brown",
+    "age": 23,
+    "address": "101 Maple St, Star City",
+    "qualification": "Master's Degree",
+    "email": "bob.brown@example.com",
+    "phone": "321-654-0987"
+  },
+  {
+    "name": "Carol White",
+    "age": 19,
+    "address": "202 Pine St, Central City",
+    "qualification": "High School",
+    "email": "carol.white@example.com",
+    "phone": "654-321-7654"
+  },
+  {
+    "name": "Dave Clark",
+    "age": 24,
+    "address": "303 Cedar St, Coast City",
+    "qualification": "Bachelor's Degree",
+    "email": "dave.clark@example.com",
+    "phone": "789-012-3456"
+  },
+  {
+    "name": "Eve Adams",
+    "age": 20,
+    "address": "404 Birch St, Keystone City",
+    "qualification": "High School",
+    "email": "eve.adams@example.com",
+    "phone": "012-345-6789"
+  },
+  {
+    "name": "Frank Moore",
+    "age": 21,
+    "address": "505 Walnut St, Fawcett City",
+    "qualification": "Bachelor's Degree",
+    "email": "frank.moore@example.com",
+    "phone": "123-789-4560"
+  },
+  {
+    "name": "Grace Lee",
+    "age": 22,
+    "address": "606 Cherry St, National City",
+    "qualification": "High School",
+    "email": "grace.lee@example.com",
+    "phone": "321-987-6540"
+  },
+  {
+    "name": "Henry Scott",
+    "age": 23,
+    "address": "707 Ash St, Smallville",
+    "qualification": "Master's Degree",
+    "email": "henry.scott@example.com",
+    "phone": "654-789-1230"
+  }
+]
